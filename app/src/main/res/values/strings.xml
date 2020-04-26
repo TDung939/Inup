@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="notification">Notification</string>
+    <string-array name="shopping_items">
+        <item>Khẩu trang</item>
+        <item>Gel rửa tay</item>
+        <item>Găng tay y tế</item>
+        <item>Giấy vệ sinh</item>
+        <item>Xà phòng</item>
+        <item>Kem đánh răng</item>
+        <item>Băng vệ sinh</item>
+        <item>Hộp sơ cứu</item>
+        <item>Thuốc</item>
+    </string-array>
+</resources>
