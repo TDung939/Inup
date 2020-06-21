@@ -4,3 +4,5 @@ An E-commerce app that calculates and prepares/provides essential items for surv
 
 # Platform
 Made with Android Studio, Java.
+
+![alt-text](https://github.com/TDung939/Inup/blob/master/ezgif.com-video-to-gif%20(1).gif)
