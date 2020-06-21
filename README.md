@@ -8,5 +8,5 @@ Made with Android Studio, Java.
 ### Login:
 ![alt-text](https://github.com/TDung939/Inup/blob/master/ezgif.com-video-to-gif%20(1).gif)
 
-#### Choosing essential products:
+### Choosing essential products:
 ![alt-text](https://github.com/TDung939/Inup/blob/master/ezgif.com-video-to-gif%20(2).gif)
